@@ -1,7 +1,7 @@
 - <h1 align="center">Hi 👋, I'm JUNAID</h1>
 <h3 align="center">A passionate frontend developer from PAKISTAN</h3>
 
-- 🌱 I’m currently learning **WEB AND APP DEVELPING.**
+- 🌱 I’m currently learning **WEB AND APP DEVELOPMENT.**
 
 - 📫 How to reach me **jkkakar12345@gmail.com**
 
